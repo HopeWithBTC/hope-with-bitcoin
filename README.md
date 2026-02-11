@@ -1,7 +1,5 @@
-# hope-with-bitcoin
+# Hope-With-Bitcoin
 Official presentation of the project.
-
-# Hope With Bitcoin
 
 **Feeding • Supporting • Educating with Bitcoin**  
 *Spreading hope since block 878,214 — one satoshi at a time.*
